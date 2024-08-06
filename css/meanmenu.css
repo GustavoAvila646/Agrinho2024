@@ -114,7 +114,7 @@ a.meanmenu-reveal {
 }
 
 .mean-container .mean-nav ul li a:hover {
-     ` background: #252525;
+     background: #ffffff;
      background: rgba(255, 255, 255, 0.1);
 }
 
@@ -172,7 +172,7 @@ a.meanmenu-reveal {
 .mean-container .mean-nav ul li a.mean-expand:hover,
 .mean-container .mean-nav ul li a.mean-expand:focus {
      background: #38c8a8;
-     color: #000000;
+     color: #ffffff;
 }
 
 .mean-container .mean-nav ul li a:hover {
