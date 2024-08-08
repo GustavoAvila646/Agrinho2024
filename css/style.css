@@ -1652,7 +1652,7 @@ input[type="radio"] .styled:checked+label::after {
 	font-size: 40px;
 	font-weight: bold;
 	text-transform: uppercase;
-	color: #000000;
+	color: #fff;
 	line-height: 40px;
 }
 
@@ -1692,8 +1692,8 @@ input[type="radio"] .styled:checked+label::after {
 }
 
 .banner-main .carousel-caption a:hover {
-	border: #ffffff solid 1px;
-	background: #ffffff;
+	border: #000000 solid 1px;
+	background: #000000;
 }
 
 #myCarousel a.carousel-control-next {
