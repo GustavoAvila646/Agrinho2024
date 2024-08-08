@@ -1979,7 +1979,7 @@ img.zoom {
 	background: #000;
 	opacity: 1;
 	font-size: 30px;
-	color: #000000;
+	color: #fff;
 }
 
 #main_slider .carousel-control-prev:hover,
@@ -1987,7 +1987,7 @@ img.zoom {
 #main_slider .carousel-control-prev:focus,
 #main_slider .carousel-control-next:focus {
 	background: #0fc690;
-	color: #fff;
+	color: #000000;
 }
 
 #main_slider a.carousel-control-prev {
