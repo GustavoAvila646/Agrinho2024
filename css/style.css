@@ -1667,7 +1667,7 @@ input[type="radio"] .styled:checked+label::after {
 }
 
 .banner-main .carousel-caption h1 {
-	-webkit-text-stroke-width: 1px;
+	-webkit-text-stroke-width: 2px;
     -webkit-text-stroke-color: #ffffff;
 	color: #001407;
 	font-size: 70px;
@@ -1677,8 +1677,8 @@ input[type="radio"] .styled:checked+label::after {
 
 .banner-main .carousel-caption p {
 	-webkit-text-stroke-width: 1px;
-    -webkit-text-stroke-color: #ffffff;
-	color: #011200;
+    -webkit-text-stroke-color: #000000;
+	color: #ffffff;
 	font-size: 20px;
 	padding: 30px 0px 50px 0px;
 	font-weight: bold;
