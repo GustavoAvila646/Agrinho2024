@@ -1652,7 +1652,7 @@ input[type="radio"] .styled:checked+label::after {
 	font-size: 40px;
 	font-weight: bold;
 	text-transform: uppercase;
-	color: #fff;
+	color: #000000;
 	line-height: 40px;
 }
 
