@@ -1987,7 +1987,7 @@ img.zoom {
 #main_slider .carousel-control-prev:focus,
 #main_slider .carousel-control-next:focus {
 	background: #0fc690;
-	color: #000000;
+	color: #fff;
 }
 
 #main_slider a.carousel-control-prev {
@@ -2088,7 +2088,7 @@ img.zoom {
 #testimonial_slider .carousel-control-next:hover,
 #testimonial_slider .carousel-control-prev:focus,
 #testimonial_slider .carousel-control-next:focus {
-	color: #fff;
+	color: #000000;
 	background: #0fc690;
 	width: 50px;
 	height: 50px;
@@ -2097,7 +2097,7 @@ img.zoom {
 #testimonial_slider a.carousel-control-prev {
 	position: absolute;
 	top: 35%;
-	color: #fff;
+	color: #000000;
 	background: #000;
 	width: 50px;
 	height: 50px;
