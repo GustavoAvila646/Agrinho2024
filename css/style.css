@@ -2088,7 +2088,7 @@ img.zoom {
 #testimonial_slider .carousel-control-next:hover,
 #testimonial_slider .carousel-control-prev:focus,
 #testimonial_slider .carousel-control-next:focus {
-	color: #000000;
+	color: #fff;
 	background: #0fc690;
 	width: 50px;
 	height: 50px;
@@ -2097,7 +2097,7 @@ img.zoom {
 #testimonial_slider a.carousel-control-prev {
 	position: absolute;
 	top: 35%;
-	color: #000000;
+	color: #fff;
 	background: #000;
 	width: 50px;
 	height: 50px;
@@ -2377,7 +2377,7 @@ ul.contant_icon li img {
 #myCarousel .carousel-control-next {
 	width: 62px;
 	height: 60px;
-	background: #fffdfd;
+	background: #000000;
 	opacity: 1;
 	font-size: 30px;
 	color: #000;
