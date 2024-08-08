@@ -1668,7 +1668,7 @@ input[type="radio"] .styled:checked+label::after {
 
 .banner-main .carousel-caption h1 {
 	-webkit-text-stroke-width: 2px;
-    -webkit-text-stroke-color: #000000;
+    -webkit-text-stroke-color: #ffffff;
 	color: #000000;
 	font-size: 70px;
 	line-height: 70px;
