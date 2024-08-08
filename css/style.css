@@ -1675,8 +1675,9 @@ input[type="radio"] .styled:checked+label::after {
 
 .banner-main .carousel-caption p {
 	color: #011200;
-	font-size: 19px;
+	font-size: 20px;
 	padding: 30px 0px 50px 0px;
+	font-weight: bold;
 }
 
 .banner-main .carousel-caption a {
